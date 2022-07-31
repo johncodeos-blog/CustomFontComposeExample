@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../layout/compose-model-1659017782785.xml" value="0.6693766937669376" />
+        <entry key="../../../../../../../../layout/compose-model-1659018137402.xml" value="0.2967667436489607" />
+        <entry key="../../../../../../../../layout/compose-model-1659019638425.xml" value="0.5" />
+        <entry key="../../../../../../../../layout/compose-model-1659080439008.xml" value="0.29753656658968436" />
+        <entry key="../../../../../../../../layout/compose-model-1659082743367.xml" value="0.2979214780600462" />
+        <entry key="../../../../../../../../layout/compose-model-1659187511166.xml" value="0.2979214780600462" />
+        <entry key="../../../../../../../../layout/compose-model-1659265515119.xml" value="0.298306389530408" />
+        <entry key="../../../../../../../../layout/compose-model-1659265747550.xml" value="0.2979214780600462" />
+        <entry key="../../../../../../../../layout/compose-model-1659265931167.xml" value="0.2979214780600462" />
+        <entry key="app/src/main/res/font/bebas_neue_font_family.xml" value="0.40677083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
